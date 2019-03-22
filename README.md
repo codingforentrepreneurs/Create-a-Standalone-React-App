@@ -9,3 +9,10 @@ Use the React CDN as well as Babel to make a Standalone React app without runnin
 
 
 [![Create a Standalone React App](https://static.codingforentrepreneurs.com/media/cfe-blog/create-a-standalone-react-app/StandAlone-React-Post.jpg)](https://www.codingforentrepreneurs.com/blog/create-a-standalone-react-app)
+
+
+
+
+### Other Resources
+
+- [Watch this video from React Dev Team](https://www.youtube.com/watch?v=dpw9EHDh2bM)
